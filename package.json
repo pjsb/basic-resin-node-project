@@ -7,8 +7,10 @@
     "preinstall": "bash deps.sh",
     "start": "node hello.js"
   },
-  "author": "Lorenzo Stoakes <lstoakes@gmail.com>",
+  "author": "J. Peters <pjsb01.pv@gmail.com>",
   "license": "ISC",
   "dependencies": {
+    "oled-js-pi": "^1.0.5",
+    "png-to-lcd": "^1.0.3"
   }
 }
